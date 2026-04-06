@@ -44,3 +44,6 @@ saas-assistant-instructions.md
 saas-generator-prompt.md
 saas-interpreter-prompt.md
 config.bat
+
+#Git
+.env
